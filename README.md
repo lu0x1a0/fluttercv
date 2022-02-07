@@ -15,3 +15,4 @@
       Run `flutter doctor --android-licenses` to accept the SDK licenses.
       See https://flutter.dev/docs/get-started/install/windows#android-setup for more details.
 ```
+30-01-2021 - finished step 3 test drive of flutter getting started
